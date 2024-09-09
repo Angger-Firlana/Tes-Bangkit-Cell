@@ -193,7 +193,7 @@ header a.active,header a:hover{
 
 .card-list .content-card .card-link{
     scroll-snap-align: center;
-    width: 370px;
+    width: 350px;
     display: block;
     background-color: rgb(255, 255, 255);
     border:2px solid transparent ;
